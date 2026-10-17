@@ -20,7 +20,7 @@ import java.util.Locale;
  */
 public class Wordle {
 
-    private static final String FILE_PATH = "words1_ru.txt";
+    private static final String FILE_PATH = "words_ru.txt";
 
     private WordleGame game;
     private BufferedReader br;
